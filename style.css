@@ -1,0 +1,17 @@
+p {
+    list-style-type: none;
+    color:black;
+    font-size: 14px;
+    border: 3px solid black;
+    margin: 5px;
+    padding: 20px;
+    width: 200px;
+   
+  }
+  
+  p:hover {
+    background: orangered;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
